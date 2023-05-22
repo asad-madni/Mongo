@@ -1,0 +1,26 @@
+[
+    {
+        "name":"hair",
+        "parentId":"645a2063effbf5983660d8a3",
+        "subCategoryId":"645a1ce2fd3884f7406d8c61"
+
+    },
+    {
+        "name":"oral",
+        "parentId":"645a2063effbf5983660d8a3",
+        "subCategoryId":"645a1ce2fd3884f7406d8c61"
+
+    },
+    {
+        "name":"skin",
+        "parentId":"645a2063effbf5983660d8a3",
+        "subCategoryId":"645a1ce2fd3884f7406d8c61"
+
+    },
+    {
+        "name":"makeup",
+        "parentId":"645a2063effbf5983660d8a3",
+        "subCategoryId":"645a1ce2fd3884f7406d8c61"
+
+    }
+]
